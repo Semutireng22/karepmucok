@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BITCOIN YAY AUTOMATION 🚀
 
 Script otomatis gawe ngerjain airdrop BitcoinYay.
@@ -44,6 +43,3 @@ Subscribe: [Sky Airdrop Hub](https://t.me/skyairdrop_hub)
 ---
 
 _Ojo lali ngopi karo udud._
-=======
-# karepmucok
->>>>>>> e381642f908a94a0765af5f2efe44159bbd49a68
